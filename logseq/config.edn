@@ -159,4 +159,5 @@
  :favorites ["react hot module reloading" "jsplay"]
  :graph/settings {:builtin-pages? false}
  :editor/logical-outdenting? true
- :ui/show-full-blocks? true}
+ :ui/show-full-blocks? true
+ :feature/enable-whiteboards? false}
