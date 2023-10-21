@@ -156,7 +156,7 @@
  :ui/show-brackets? true
  :journal/page-title-format "yyyy-MM-dd"
  :journal/file-name-format "yyyy-MM-dd"
- :favorites ["统计学导论_作业六" "react hot module reloading" "jsplay"]
+ :favorites ["统计学导论_作业二" "react hot module reloading" "jsplay"]
  :graph/settings {:builtin-pages? false}
  :editor/logical-outdenting? true
  :ui/show-full-blocks? true
