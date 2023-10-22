@@ -1,1 +1,1 @@
--
+- {{embed [[logseq dev theme]]}}
