@@ -1,1 +1,4 @@
 - 闪卡系统
+-
+	- [[cards/idea]]
+	- [[cards/question]]
