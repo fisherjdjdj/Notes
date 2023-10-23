@@ -21,7 +21,7 @@
 		  later:: 1624459087696
 		  now:: 1624459089292
 - Progress Bar [:progress {:max 10 :value 3}]
-- Block ref  [[logseq]] ((60d34662-6747-46cd-a790-6dcb691b0256))
+- Block ref   ((60d34662-6747-46cd-a790-6dcb691b0256))
   id:: 610173e1-6229-4cc1-85d9-b652d28d888a
 - # ((610173e1-6229-4cc1-85d9-b652d28d888a))
 - Embedded block
