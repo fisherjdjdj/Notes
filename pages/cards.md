@@ -1,6 +1,5 @@
 - 闪卡系统
-  collapsed:: true
-	- [[cards/words]]
+	- [[cards/word]]
 	-
 - 王之宝库
   collapsed:: true
