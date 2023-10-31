@@ -1,1 +1,9 @@
-{}
+{
+  "strictLineBreaks": true,
+  "newFileLocation": "root",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "promptDelete": false
+}

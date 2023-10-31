@@ -1,0 +1,53 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Untitled 1.md",
+      "timestamp": 1698719000795
+    },
+    {
+      "filepath": "Untitled.md",
+      "timestamp": 1698718995690
+    },
+    {
+      "filepath": "notes/homework_2.md",
+      "timestamp": 1698718995066
+    },
+    {
+      "filepath": "notes/homework_1.md",
+      "timestamp": 1698718993921
+    },
+    {
+      "filepath": "journals/2023-10-31.md",
+      "timestamp": 1698718961169
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": false,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false
+}

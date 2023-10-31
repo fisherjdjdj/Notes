@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "fd0ba675e86f12b2",
+    "id": "2f843dfde5bc4a61",
     "type": "split",
     "children": [
       {
-        "id": "82183fe7dabfb1e5",
+        "id": "d56ae3a808f693c6",
         "type": "tabs",
         "children": [
           {
-            "id": "f48ce154ddecee02",
+            "id": "cc2cd5d2786e825b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fd2fa4c8db2a90dc",
+    "id": "73369b7e246a5f1b",
     "type": "split",
     "children": [
       {
-        "id": "b3998af2d7eb22c9",
+        "id": "d2f0c4bb236f5c41",
         "type": "tabs",
         "children": [
           {
-            "id": "d714e657d9aeebc7",
+            "id": "431a4da5ad36d2c7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "429b234f4853af3d",
+            "id": "7ec68562a739d1b8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +52,58 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5ec8ec3e80ba57a7",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c1a818a577f5acc",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319.5
   },
   "right": {
-    "id": "6983fcdfaf7c4a88",
+    "id": "ae6843ca3dbd0ed6",
     "type": "split",
     "children": [
       {
-        "id": "77f1988f3413413e",
+        "id": "745f5e1ed14e66a2",
         "type": "tabs",
         "children": [
           {
-            "id": "4a41d5223fc5033b",
+            "id": "9d3f9aea162b7cb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fdf63916420fd066",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1d8142c03f1a4b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,12 +127,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
+      "surfing:surfing-bookmark-manager": false,
+      "translate:Open translation view": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "pkmer:Open Pkmer Market": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "command-palette:打开命令面板": false
+      "switcher:打开快速切换": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "d714e657d9aeebc7",
-  "lastOpenFiles": []
+  "active": "431a4da5ad36d2c7",
+  "lastOpenFiles": [
+    "journals/2023-10-31.md",
+    "learning/obsidian.md",
+    "learning",
+    "journals/delete.md",
+    "temple/dailyNote.md",
+    "cubox.md",
+    "cubox",
+    "Untitled 1.md",
+    "Untitled.md",
+    "pages/homework_2.md",
+    "pages/homework_1.md",
+    "temple",
+    "journals"
+  ]
 }

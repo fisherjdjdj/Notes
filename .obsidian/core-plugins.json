@@ -4,10 +4,14 @@
   "switcher",
   "graph",
   "backlink",
-  "canvas",
+  "tag-pane",
   "page-preview",
+  "daily-notes",
+  "templates",
   "command-palette",
+  "slash-command",
   "editor-status",
   "word-count",
+  "slides",
   "file-recovery"
 ]

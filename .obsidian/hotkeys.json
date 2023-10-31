@@ -1,1 +1,10 @@
-{}
+{
+  "pkmer:open-pkmer-market-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ]
+}
