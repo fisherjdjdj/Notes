@@ -156,9 +156,9 @@
  :ui/show-brackets? true
  :journal/page-title-format "yyyy-MM-dd"
  :journal/file-name-format "yyyy-MM-dd"
- :favorites ["card" "延迟" "写作" "Clip" "学习" "读书" "react hot module reloading" "jsplay"]
+ :favorites ["react hot module reloading" "jsplay"]
  :graph/settings {:builtin-pages? false
  :journal? false}
  :editor/logical-outdenting? true
  :ui/show-full-blocks? true
- :feature/enable-whiteboards? true}
+ :feature/enable-whiteboards? false}

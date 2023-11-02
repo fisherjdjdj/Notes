@@ -1,0 +1,7 @@
+-
+- 闪卡系统
+	- [[card/word]]
+- 王之宝库
+	- [[card/idea]]
+	- [[card/question]]
+-
