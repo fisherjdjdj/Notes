@@ -157,7 +157,8 @@
  :journal/page-title-format "yyyy-MM-dd"
  :journal/file-name-format "yyyy-MM-dd"
  :favorites ["react hot module reloading" "jsplay"]
- :graph/settings {:builtin-pages? true}
+ :graph/settings {:builtin-pages? false
+ :journal? false}
  :editor/logical-outdenting? true
  :ui/show-full-blocks? true
  :feature/enable-whiteboards? false}
