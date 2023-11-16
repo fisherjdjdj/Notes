@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "679a5049535d1dfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基于小世界网络的SIR模型研究.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "基于小世界网络的SIR模型研究.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,19 +141,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-weread-plugin:Weread": false,
       "surfing:surfing-bookmark-manager": false,
       "translate:Open translation view": false,
       "daily-notes:打开/创建今天的日记": false,
       "pkmer:Open Pkmer Market": false,
       "graph:查看关系图谱": false,
       "switcher:打开快速切换": false,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "431a4da5ad36d2c7",
+  "active": "679a5049535d1dfe",
   "lastOpenFiles": [
+    "基于小世界网络的SIR模型研究.md",
+    "pages/cards.md",
+    "pages/cards%2Fword.md",
+    "logseq/bak/logseq/config/2023-10-24T16_13_56.694Z.Desktop.edn",
+    "logseq/bak/logseq/config/2023-10-24T16_13_48.783Z.Desktop.edn",
+    "logseq/bak/logseq/config/2023-10-24T16_08_13.658Z.Desktop.edn",
+    "logseq/bak/logseq/config/2023-10-24T16_08_06.766Z.Desktop.edn",
+    "logseq/bak/logseq/config/2023-10-23T16_43_18.513Z.Desktop.edn",
     "journals/2023-10-31.md",
     "learning/obsidian.md",
     "learning",
