@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基于小世界网络的SIR模型研究.md",
+                "file": "基于小世界网络的SIR模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基于小世界网络的SIR模型研究.md",
+                "file": "基于小世界网络的SIR模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +156,7 @@
   "active": "679a5049535d1dfe",
   "lastOpenFiles": [
     "基于小世界网络的SIR模型研究.md",
+    "基于小世界网络的SIR模型.md",
     "pages/cards.md",
     "pages/cards%2Fword.md",
     "logseq/bak/logseq/config/2023-10-24T16_13_56.694Z.Desktop.edn",
